@@ -6,9 +6,6 @@
 </p>
 
 
-![cover](.github/cover.png?style=flat)
-
-
 ## 💻 Projeto
 Aplicativo para fins de estudo.
 
