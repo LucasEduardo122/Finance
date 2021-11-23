@@ -2,9 +2,8 @@
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=E51C44&labelColor=0A1033">
 
  <img src="https://media.discordapp.net/attachments/571752920685477889/912751641537679430/Screenshot_20211123-140748.png?width=224&height=473" alt="finance" />
+  <img src="https://media.discordapp.net/attachments/571752920685477889/912751641881628702/Screenshot_20211123-140807.png?width=224&height=473" alt="finance" />
 </p>
-
- <img src=" https://media.discordapp.net/attachments/571752920685477889/912751641881628702/Screenshot_20211123-140807.png?width=224&height=473" alt="finance" />
 ## 💻 Projeto
 Aplicativo para fins de estudo.
 
